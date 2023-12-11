@@ -1,3 +1,4 @@
-streamlit
-nltk
-sklearn
+streamlit==1.29.0
+nltk==3.8.1
+scikit-learn==0.24.2  # Use the appropriate version
+pip==23.3.1
